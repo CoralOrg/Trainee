@@ -45,7 +45,7 @@
         </ul>
     </div>
     <div style="flex: 1; text-align: center; background: white; padding: 15px; border-left: 1px solid #e1e4e8;">
-        <img src="https://github.com/user-attachments/assets/862334e4-e036-495a-a9b1-057f3b9a0c2c" style="max-width: 100px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/user-attachments/assets/862334e4-e036-495a-a9b1-057f3b9a0c2c" style="max-width: 50px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     </div>
 </div>
 
@@ -137,10 +137,5 @@
 
 <h2 style="color: #2980b9; background: #f8f9fa; padding: 10px; border-radius: 5px; border: 1px solid #e1e4e8;">📥 Installation</h2>
 <pre style="background: white; padding: 10px; border-radius: 5px; border: 1px solid #e1e4e8;"><code>git clone https://github.com/CoralOrg/Trainee.git</code></pre>
-
-<h2 style="color: #2980b9; background: #f8f9fa; padding: 10px; border-radius: 5px; border: 1px solid #e1e4e8;">📜 Authors</h2>
-<ul style="background: white; padding: 15px 15px 15px 35px; border-radius: 5px; border: 1px solid #e1e4e8;">
-    <li>@pablormsn</li>
-    <li>@pablorgu</li>
 </ul>
 </body>
