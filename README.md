@@ -26,7 +26,7 @@
 </ul>
 
 <h3>2. Routines Management</h3>
-<p>![image](https://github.com/user-attachments/assets/862334e4-e036-495a-a9b1-057f3b9a0c2c)</p>
+<p><img src="https://github.com/user-attachments/assets/862334e4-e036-495a-a9b1-057f3b9a0c2c")</p>
 <p>Actions:</p>
 <ul>
     <li>Add new routine (name, description and exercise selection)</li>
