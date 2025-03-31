@@ -1,6 +1,6 @@
 <body>
 <h1>TRAINEE: Workout Management App</h1>
-<p>![image](https://github.com/user-attachments/assets/416095e2-39c4-47f0-863c-5b59ffca890f)</p>
+<p><img src="https://github.com/user-attachments/assets/416095e2-39c4-47f0-863c-5b59ffca890f")</p>
 
 <h2>📌 Description</h2>
 <p>TRAINEE is a mobile application designed to facilitate tracking and recording strength training progress. It allows users to efficiently manage workout routines, exercises, and training sessions, with multilingual support (English and Spanish) and local storage using SQLite.</p>
@@ -35,7 +35,7 @@
 </ul>
 
 <h3>3. Add Routine Screen</h3>
-    <p>![image](https://github.com/user-attachments/assets/7c6e2105-1fe0-4743-aac9-cbed81900925)</p>
+    <p><img src="https://github.com/user-attachments/assets/7c6e2105-1fe0-4743-aac9-cbed81900925")</p>
     <p>Functionality:</p>
     <ul>
         <li>Specify a <strong>name</strong> and <strong>description</strong> for the new routine</li>
@@ -45,7 +45,7 @@
 </div>
 
 <h3>4. Workout Screen</h3>
-<p>![image](https://github.com/user-attachments/assets/5452239c-6fd4-40c6-aed1-8b61a1b9c502)</p>
+<p><img src="https://github.com/user-attachments/assets/5452239c-6fd4-40c6-aed1-8b61a1b9c502")</p>
 <p>Displays exercises from selected routine</p>
 <p>Actions:</p>
 <ul>
@@ -54,7 +54,7 @@
 </ul>
 
 <h3>5. Exercises List</h3>
-<p>![image](https://github.com/user-attachments/assets/6039f005-6a8b-49fb-ba85-ed71f6abd138)</p>
+<p><img src="https://github.com/user-attachments/assets/6039f005-6a8b-49fb-ba85-ed71f6abd138")</p>
 <p>Filters:</p>
 <ul>
     <li>By muscle group (dropdown)</li>
@@ -67,7 +67,7 @@
 </ul>
 
  <h3>6. Exercise Details Screen</h3>
-      <p>![image](https://github.com/user-attachments/assets/d8785103-57e6-428f-9c49-8c535babbbc4)</p>
+      <p><img src="https://github.com/user-attachments/assets/d8785103-57e6-428f-9c49-8c535babbbc4")</p>
       <p>Displays detailed information about a specific exercise:</p>
       <ul>
           <li>Exercise name</li>
@@ -81,7 +81,7 @@
       </ul>
 
 <h3>7. Workout History</h3>
-<p>![image](https://github.com/user-attachments/assets/aa97c347-2635-4f9e-98c8-1d569058d3b4)</p>
+<p><img src="https://github.com/user-attachments/assets/aa97c347-2635-4f9e-98c8-1d569058d3b4")</p>
 <p>View past training sessions</p>
 <p>Details per workout:</p>
 <ul>
@@ -90,7 +90,7 @@
 </ul>
 
 <h3>Workout Details Screen</h3>
-<p>![image](https://github.com/user-attachments/assets/927edbb1-ee2a-43aa-b188-cdd2af7108f0)</p>
+<p><img src="https://github.com/user-attachments/assets/927edbb1-ee2a-43aa-b188-cdd2af7108f0")</p>
 
 <p>Displays comprehensive information about a completed training session:</p>
 
