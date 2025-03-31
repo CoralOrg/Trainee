@@ -17,7 +17,7 @@
 <h2>🖥️ Screens and Functionalities</h2>
 
 <h3>1. Home Screen</h3>
-<p>![image](https://github.com/user-attachments/assets/edcb1232-3739-4a71-86ae-3f133afcafc3)</p>
+<p><img src="https://github.com/user-attachments/assets/edcb1232-3739-4a71-86ae-3f133afcafc3")</p>
 <p>Quick access to:</p>
 <ul>
     <li><strong>Routines</strong>: Custom workout routines management</li>
