@@ -140,7 +140,7 @@
 
 <h2 style="color: #2980b9; background: #f8f9fa; padding: 10px; border-radius: 5px; border: 1px solid #e1e4e8;">📜 Authors</h2>
 <ul style="background: white; padding: 15px 15px 15px 35px; border-radius: 5px; border: 1px solid #e1e4e8;">
-    <li>Pablo Ruiz Galiánez</li>
-    <li>Pablo Robles Mansilla</li>
+    <li>@pablormsn</li>
+    <li>@pablorgu</li>
 </ul>
 </body>
