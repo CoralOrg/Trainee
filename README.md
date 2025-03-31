@@ -29,7 +29,7 @@
         </ul>
     </div>
     <div style="flex: 1; text-align: center; background: white; padding: 15px; border-left: 1px solid #e1e4e8;">
-        <img src="https://github.com/user-attachments/assets/edcb1232-3739-4a71-86ae-3f133afcafc3" style="max-width: 250px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/user-attachments/assets/edcb1232-3739-4a71-86ae-3f133afcafc3" style="max-width: 150px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     </div>
 </div>
 
@@ -45,7 +45,7 @@
         </ul>
     </div>
     <div style="flex: 1; text-align: center; background: white; padding: 15px; border-left: 1px solid #e1e4e8;">
-        <img src="https://github.com/user-attachments/assets/862334e4-e036-495a-a9b1-057f3b9a0c2c" style="max-width: 250px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/user-attachments/assets/862334e4-e036-495a-a9b1-057f3b9a0c2c" style="max-width: 150px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     </div>
 </div>
 
@@ -61,7 +61,7 @@
         </ul>
     </div>
     <div style="flex: 1; text-align: center; background: white; padding: 15px; border-left: 1px solid #e1e4e8;">
-        <img src="https://github.com/user-attachments/assets/7c6e2105-1fe0-4743-aac9-cbed81900925" style="max-width: 250px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/user-attachments/assets/7c6e2105-1fe0-4743-aac9-cbed81900925" style="max-width: 150px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     </div>
 </div>
 
@@ -76,7 +76,7 @@
         </ul>
     </div>
     <div style="flex: 1; text-align: center; background: white; padding: 15px; border-left: 1px solid #e1e4e8;">
-        <img src="https://github.com/user-attachments/assets/5452239c-6fd4-40c6-aed1-8b61a1b9c502" style="max-width: 250px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/user-attachments/assets/5452239c-6fd4-40c6-aed1-8b61a1b9c502" style="max-width: 150px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     </div>
 </div>
 
@@ -91,7 +91,7 @@
         </ul>
     </div>
     <div style="flex: 1; text-align: center; background: white; padding: 15px; border-left: 1px solid #e1e4e8;">
-        <img src="https://github.com/user-attachments/assets/6039f005-6a8b-49fb-ba85-ed71f6abd138" style="max-width: 250px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/user-attachments/assets/6039f005-6a8b-49fb-ba85-ed71f6abd138" style="max-width: 150px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     </div>
 </div>
 
@@ -123,7 +123,7 @@
         </ul>
     </div>
     <div style="flex: 1; text-align: center; background: white; padding: 15px; border-left: 1px solid #e1e4e8;">
-        <img src="https://github.com/user-attachments/assets/aa97c347-2635-4f9e-98c8-1d569058d3b4" style="max-width: 250px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/user-attachments/assets/aa97c347-2635-4f9e-98c8-1d569058d3b4" style="max-width: 150px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     </div>
 </div>
 
