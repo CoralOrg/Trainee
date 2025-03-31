@@ -136,7 +136,7 @@
 </ul>
 
 <h2 style="color: #2980b9; background: #f8f9fa; padding: 10px; border-radius: 5px; border: 1px solid #e1e4e8;">📥 Installation</h2>
-<pre style="background: white; padding: 10px; border-radius: 5px; border: 1px solid #e1e4e8;"><code>git clone https://github.com/your-username/TRAINEE.git</code></pre>
+<pre style="background: white; padding: 10px; border-radius: 5px; border: 1px solid #e1e4e8;"><code>git clone https://github.com/CoralOrg/Trainee.git</code></pre>
 
 <h2 style="color: #2980b9; background: #f8f9fa; padding: 10px; border-radius: 5px; border: 1px solid #e1e4e8;">📜 Authors</h2>
 <ul style="background: white; padding: 15px 15px 15px 35px; border-radius: 5px; border: 1px solid #e1e4e8;">
